@@ -4,13 +4,10 @@ tags:
   - Cheatsheet
   - Syntax
   - Notes
-Tags2:
-  - Teste
 ---
 <!--This is a comment-->
-<!--Teste123-->
 Notes off the  [CheatSheet on GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers) - Basic Syntax
-<BR><BR>
+<BR>
 # Markdown Cheatsheet
 - This is intended as a quick reference and showcase. 
 <BR>
@@ -156,11 +153,11 @@ Underscores
 ````````
         YouTubeVideo
 `````````````
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
+<BR><BR>
+[CheatSheet](https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fmedia.cheatography.com%2Fstorage%2Fthumb%2Fcheatography_markdown.750.jpg&imgrefurl=https%3A%2F%2Fwww.cheatography.com%2Fcheatography%2Fcheat-sheets%2Fmarkdown%2F&docid=qXxqLexDVSx7PM&tbnid=nQhRIbj3_y2K8M%3A&vet=10ahUKEwizyt7H5bbYAhVGgZAKHY3cB20QMwgnKAAwAA..i&w=750&h=971&bih=734&biw=1536&q=markdown%20cheatsheet&ved=0ahUKEwizyt7H5bbYAhVGgZAKHY3cB20QMwgnKAAwAA&iact=mrc&uact=8#h=971&imgdii=lE7V5BXusDvlfM:&vet=10ahUKEwizyt7H5bbYAhVGgZAKHY3cB20QMwgnKAAwAA..i&w=750)
 
 
 
