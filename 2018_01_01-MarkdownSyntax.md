@@ -51,9 +51,11 @@ Strikethrough uses two tildes. ~~Scratch this.~~
         • Teste
 4. And another item.
 <BR>
+
 * Unordered list can use asterisks **
 - Or minuses --
 + Or pluses ++
+<BR>
 
 • This is a super list
 
@@ -61,6 +63,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
     - Item 2
     - Item N
 <BR>
+
 ````````
         Links
 `````````````
