@@ -4,14 +4,11 @@ tags:
   - Cheatsheet
   - Syntax
   - Notes
+Tags2:
+  - Teste
 ---
----
-Teste:
-Teste:
-• Teste123
-• Teste321
----
-
+<!--This is a comment-->
+<!--Teste123-->
 Notes off the  [CheatSheet on GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers) - Basic Syntax
 <BR><BR>
 # Markdown Cheatsheet
