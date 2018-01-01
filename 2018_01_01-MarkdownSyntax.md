@@ -14,7 +14,7 @@ Notes off the  [CheatSheet on GitHub](https://github.com/adam-p/markdown-here/wi
 ```````````
         Headers
 ```````````       
-             
+
 # H1
 ## H2
 ### H3
@@ -22,6 +22,7 @@ Notes off the  [CheatSheet on GitHub](https://github.com/adam-p/markdown-here/wi
 ##### H5
 ###### H6
 <BR>
+
 ````````
         Emphasis
 `````````````
