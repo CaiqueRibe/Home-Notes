@@ -10,6 +10,7 @@ Notes off the  [CheatSheet on GitHub](https://github.com/adam-p/markdown-here/wi
 # Markdown Cheatsheet
 - This is intended as a quick reference and showcase. 
 <BR>
+
 ```````````
         Headers
 ```````````                    
@@ -19,7 +20,7 @@ Notes off the  [CheatSheet on GitHub](https://github.com/adam-p/markdown-here/wi
 #### H4
 ##### H5
 ###### H6
-
+<BR>
 ````````
         Emphasis
 `````````````
