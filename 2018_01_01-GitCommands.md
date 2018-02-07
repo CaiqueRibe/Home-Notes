@@ -4,7 +4,9 @@ tags:
   - Commands
   - Cheatsheet
 ---
-
+```
+https://github.com/CaiqueRibe
+````
 > Synopsis 
 >> Is a brief summary of the major points of a subject or written work or story, either as prose or as a table; 
 >> An abridgment or condensation of a work. The etymology is from Greek syn- "together" + opsis "sight, appearance,". 
@@ -13,10 +15,16 @@ tags:
 # Synopsis
 git rm [-f | --force] [-n] [-r] [--cached] [--ignore-unmatch] [--quiet] [--] <file>…​
 
-# Example
+# Examples
 git rm file1.txt  
 git commit -m "remove file1.txt"
 [How can I delete a file from git repo?-StackOverflow](https://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo)
+
+# Tutorials
+[githowto](https://githowto.com/setup)
+[guthub Help](https://help.github.com/)
+  - [Adding a remote](https://help.github.com/articles/adding-a-remote/)
+  - [Removing a remote](https://help.github.com/articles/removing-a-remote/)
 # CheatSheets
 [Tower App CheatSheet](https://www.git-tower.com/blog/git-cheat-sheet/)  
 [Gits Commandflow](https://www.google.com.br/search?q=git+cheat+sheet&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiPlIi62bfYAhWKDpAKHZZSDYkQ_AUICigB&biw=1540&bih=735#imgrc=R-WE66F155-E5M:)  
